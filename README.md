@@ -44,7 +44,7 @@ The system is designed to assist businesses in **inventory optimization, supply 
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/AdeibArief/Demand-forecasting-of-products-using-LSTM-Final-Year-Project
+git clone https://github.com/AdeibArief/Demand-forecasting-of-products-using-LSTM-Final-Year-Project.git
 cd lstm-demand-forecasting
 ```
 
@@ -75,6 +75,7 @@ streamlit run app.py
 ### 🔹 Forecasted Demand Trend
 
 *(Predicted vs Actual Demand)*
+
 <img width="700" height="350" alt="Screenshot 2025-04-02 125645" src="https://github.com/user-attachments/assets/dac52997-8148-4ff2-b6c7-0618ec8fc45e" />
 
 ### 🔹 Demand Distribution
@@ -82,9 +83,6 @@ streamlit run app.py
 *(Histogram of demand levels)*
 
 <img width="700" height="350" alt="Screenshot 2025-04-02 123923" src="https://github.com/user-attachments/assets/d81851fb-8450-4b2e-b3d5-92fb8d5d8648" />
-
-
-![Distribution](https://via.placeholder.com/700x350.png?text=Demand+Distribution+Demo)
 
 ### 🔹 Demand Categories
 
