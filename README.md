@@ -44,7 +44,7 @@ The system is designed to assist businesses in **inventory optimization, supply 
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/AdeibArief/Demand-forecasting-of-products-using-LSTM-Final-Year-Project.git
+git clone https://github.com/AdeibArief/Demand-forecasting-of-products-using-LSTM-Final-Year-Project-.git
 cd lstm-demand-forecasting
 ```
 
